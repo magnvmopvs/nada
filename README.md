@@ -2,6 +2,6 @@
 
 Só testes
 
-- npm install react-scripts
-- npm install react react-dom
-- npm start
+- (sudo) npm install react-scripts
+- (sudo) npm install react react-dom
+- (sudo) npm start
